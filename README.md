@@ -8,7 +8,7 @@ as it is the intended purpose of this application.
 
 ## Domain Controller Documentation
 This application requires that you know your Domain controller to look for users and Groups from Active Directory. You can edit the 
-Domain controller via ADUCGroupCollection.cs on **Line 15 and 55**to satify your environment before use.
+Domain controller via ADUCGroupCollection.cs on **Line 15 and 55** to satify your environment before use.
 
 ### How do i find my Domain Controller?
 Method 1: Pinging Google
