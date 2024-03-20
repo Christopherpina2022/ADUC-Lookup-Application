@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ALAWPF/FileContentIndex/62e96344-c1bb-4e0c-9e52-5cccef2d47d7.vsidx
+/.vs/ALAWPF/FileContentIndex/fa21b818-cf6b-44ec-88ec-dd7a40737f56.vsidx
+/.vs/ALAWPF/FileContentIndex/77fdce0b-8f4a-4cba-81f6-28fd9e91df9a.vsidx
+bin
+.vs
+\get-groups-by-user\obj
+\get-groups-by-user\ALAWPF
+obj
+ALAWPF
